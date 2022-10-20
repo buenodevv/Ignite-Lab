@@ -10,4 +10,4 @@
 -Radix-UI -> https://www.radix-ui.com/.
 -Storybook -> https://storybook.js.org/
 
-!(app.jpg)
+![alt text](app.jpg)
