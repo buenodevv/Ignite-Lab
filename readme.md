@@ -4,10 +4,10 @@
 
 ### Técnologias Utilizadas
 
--Figma ->https://www.figma.com/.
--React –>https://pt-br.reactjs.org.
--Tailwind -> https://tailwindcss.com/.
--Radix-UI -> https://www.radix-ui.com/.
--Storybook -> https://storybook.js.org/.
+-Figma ->https://www.figma.com/<br>
+-React –>https://pt-br.reactjs.org<br>
+-Tailwind -> https://tailwindcss.com/<br>
+-Radix-UI -> https://www.radix-ui.com/<br>
+-Storybook -> https://storybook.js.org/<br>
 
 ![alt text](app.jpg)
